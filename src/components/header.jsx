@@ -24,8 +24,8 @@ const header = () => {
   )
   return (
     <>
-      <div class="main" ref={box}>
-        <h1 id="name">RUSIH RAUT</h1>
+      <div className="main" ref={box}>
+        <h1 id="name">RUSHi RAUT</h1>
         <h2>A Curious Mind Who Writes Code</h2>
       </div>
     </>

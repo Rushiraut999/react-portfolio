@@ -17,10 +17,10 @@ const myphoto = () => {
   }, { scope: box })
 
   return (
-    <div class="photo" ref={box}>
-      <div class="my_photo">
-        <div class="line1"></div>
-        <div class="line2"></div>
+    <div className="photo" ref={box}>
+      <div className="my_photo">
+        <div className="line1"></div>
+        <div className="line2"></div>
         <img src={image} alt="my photo"></img>
       </div>
     </div>

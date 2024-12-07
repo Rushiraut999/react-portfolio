@@ -6,8 +6,8 @@ import About from './components/about'
 import Skill from './components/Skill'
 import Project from './components/project'
 import Contact from './components/Contact'
-
 import './App.css'
+
 function App() {
   return (
     <>

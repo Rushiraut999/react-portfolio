@@ -7,6 +7,7 @@ const nav = () => {
   const box = useRef();
   useGSAP(
     () => {
+      // gsap
       gsap.from(".navbar", {
         y: -50,
         scale: 1,
